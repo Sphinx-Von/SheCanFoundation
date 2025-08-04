@@ -1,6 +1,7 @@
 # Intern Portal - Full Stack Application
 
 A beautiful, production-ready intern dashboard with fundraising tracking, achievements, and leaderboard functionality.
+![Screenshots](https://github.com/user-attachments/assets/f1a65997-cc36-48b9-9e2b-707d8b1d2a4e)
 
 ## Features
 
